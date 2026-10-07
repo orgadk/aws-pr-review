@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "aws-pr-review",
+  "owner": {
+    "name": "orgadk"
+  },
+  "plugins": [
+    {
+      "name": "aws-pr-review",
+      "source": "./"
+    }
+  ]
+}

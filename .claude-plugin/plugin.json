@@ -1,0 +1,12 @@
+{
+  "name": "aws-pr-review",
+  "version": "1.0.0",
+  "description": "AWS PR review skills for Claude Code \u2014 credentials, IAM, CDK patterns, buildspec, and engineering quality checks.",
+  "skills": [
+    "skills/check-credentials",
+    "skills/no-over-engineering",
+    "skills/iam-policy-review",
+    "skills/cdk-patterns",
+    "skills/buildspec-rules"
+  ]
+}
